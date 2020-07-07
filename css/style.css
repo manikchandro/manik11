@@ -1,0 +1,426 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+
+
+
+#main-header {
+    background-color: #129174
+}
+
+
+.nav-link {
+    padding: 0 1rem
+}
+
+.navbar-brand {
+    padding-top: 0
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 14px;
+    text-transform: capitalize
+}
+
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.navbar-light .navbar-brand i {
+    padding-right: 5px
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #e5eeed
+}
+
+.navbar-nav .nav-item:last-child {
+    padding: 4px 14px;
+    border: 1px solid #007168;
+    border-radius: 4px;
+    margin-top: -5px;
+    font-weight: 600;
+    cursor: pointer
+}
+
+.navbar-light .navbar-nav .nav-link:focus {
+    color: #fff
+}
+
+.right-header ul {
+    list-style: none;
+    margin-bottom: 0
+}
+
+.right-header ul li {
+    display: inline-block
+}
+
+.right-header ul li a {
+    color: #fff;
+    font-size: 14px
+}
+
+.right-header ul li a i {
+    padding-right: 7px;
+    font-size: 17px
+}
+
+.right-header button {
+    padding: 10px 25px;
+    border: 0;
+    background-color: #FFBF50;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 14px
+}
+
+/*  end main header   */
+
+
+
+#home-top {
+    margin-top: 30px;
+    border-bottom: 1px solid #009877;
+}
+
+.town-name {
+    text-align: right;
+}
+
+.town-name p {
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 18px;
+    color: #2f3432
+}
+
+.town-name ul {
+    list-style: none
+}
+
+.town-name ul li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #0074BE;
+}
+
+.home-top-title h2 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #2f3432
+}
+
+.home-top-title p {
+    font-size: 14px;
+    color: #707676;
+    padding-right: 40px;
+    line-height: 1.8
+}
+
+.home-bottom-title {
+    margin-top: 90px;
+}
+
+.home-bottom-title p {
+    font-weight: 700;
+    color: #2f3432;
+}
+
+.home-icon {
+    text-align: center
+}
+
+.home-icon i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #3b894f
+}
+
+
+.icon-name {
+    text-align: center;
+    margin-bottom: 20px
+}
+
+.icon-name a {
+    text-decoration: none
+}
+
+.icon-border {
+    border: 1px solid #D4DED9;
+    padding-top: 25px;
+    border-radius: 4px
+}
+
+.icon-footer ul {
+    list-style: none
+}
+
+.icon-footer ul li {
+    display: inline-block
+}
+
+
+.icon-footer ul li img {
+    height: 22px
+}
+
+.icon-footer ul li i {
+    padding: 5px
+}
+
+
+.icon-footer ul li p {
+    font-size: 14px;
+    margin-bottom: 0
+}
+
+
+.icon-footer {
+    padding-left: 22px;
+}
+
+.icon-footer ul li:first-child i {
+    color: #B4352D
+}
+
+/*   home-top   */
+
+#main-service {
+    background-color: #E7EDEE;
+}
+
+.service-top {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    box-shadow: 0 3px 0 0 #d5e1e6;
+}
+
+.service-top-icone i {
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 45px;
+    color: #5895d2
+}
+
+
+.service-top-title h3 {
+    font-size: 15px;
+    font-weight: 700
+}
+
+.service-top-title p {
+    font-size: 15px;
+    color: #707676;
+    margin-bottom: 0
+}
+
+.service-top-title p a {
+    text-decoration: none;
+    color: #0074BE;
+}
+
+.service-top-right {
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    box-shadow: 0 3px 0 0 #d5e1e6;
+}
+
+
+.service-top-right-icon i {
+    font-size: 30px;
+    margin-top: 10px;
+    cursor: pointer
+}
+
+.service-top-right-title p {
+    text-align: center
+}
+
+.service-top-right-title p a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #0074BE;
+    font-weight: 700
+}
+
+
+
+/*  end main-service  */
+
+.main-service-background {
+    background-color: #fff;
+    box-shadow: 0 3px 0 0 #d5e1e6;
+}
+
+
+.full-link {
+    text-align: center
+}
+
+.icon-name-sivice {
+    margin-bottom: 0;
+    text-align: center
+}
+
+.icon-name-sivice a {
+    text-decoration: none
+}
+
+.full-link span {
+    font-size: 14px;
+    color: #afb7ad;
+}
+
+.full-link p {
+    font-size: 12px;
+    color: #707676;
+    margin-top: 10px
+}
+
+.about-service {
+    padding: 15px;
+    margin-top: 10px
+}
+
+
+/* end main-service */
+
+
+.service-bottom {
+    text-align: center;
+    padding: 40px 0 100px
+}
+
+.service-bottom h2 {
+    font-size: 26px;
+    color: #2f3432;
+    margin-bottom: 20px
+}
+
+.service-bottom h3 {
+    font-size: 20px;
+    color: #2f3432;
+    margin-bottom: 30px
+}
+
+.service-bottom a {
+    text-decoration: none;
+    padding: 8px 20px;
+    background-color: #ffc800;
+    text-shadow: 0 1px 0 #ffee96;
+    color: #673500;
+    font-weight: 700;
+    border-radius: 4px;
+    box-shadow: 0 2px 0 #afb7ad;
+}
+
+.service-bottom a:hover {
+    box-shadow: none;
+    background: linear-gradient(#fae19d, #ffbd00);
+}
+
+
+
+/* start footer part */
+
+#main-footer {
+    border-top: 4px solid #009877;
+}
+
+.footer-img img {
+    cursor: pointer;
+    width: 140px
+}
+
+.footer-1,
+.fotter-right {
+    margin-top: 30px;
+}
+
+.footer-1 p,
+.footer-1 h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #2f3432;
+    margin-bottom: 5px;
+}
+
+.footer-1 h3 {
+    padding-top: 25px;
+    display: block
+}
+
+.footer-1 a {
+    text-decoration: none;
+    color: #0074ba;
+    font-weight: 700;
+    font-size: 14px
+}
+
+.footer-1 a i {
+    padding-right: 20px;
+    font-size: 22px
+}
+
+.fotter-right p {
+    font-size: 14px;
+    font-weight: 700
+}
+
+.fotter-right ul {
+    list-style: none
+}
+
+
+.fotter-right ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #0074ba;
+}
+
+.fotter-right ul li a:hover {
+    color: #00547e
+}
+
+.footer-title p {
+    font-size: 12px
+}
+
+
+.footer-logo {
+    text-align: right
+}
+
+.bottom-footer {
+    border-top: 1px solid #d4ded9;
+    padding-top: 10px;
+    margin: 20px 0
+}
